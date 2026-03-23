@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Galal  
+### 🎓 Computer Engineering Student @ ERU  
 
-<!--
-**galal241359/galal241359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### **About Me** I'm a passionate **Computer Engineering** student at the **Egyptian Russian University (ERU)**. I specialize in building modern web applications and exploring the intersection of software and hardware.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Currently learning:** React.js, Next.js, and Advanced Networking.  
+- 🛠️ **Skills:** JavaScript, C++, Python, Digital Logic Design.  
+- ⚡ **Projects:** [Technical Science Egypt (TSE) Website], [Virtual Painter with AI].  
+- 🛰️ **Certifications:** CCNP, CCNA.  
+
+---
+
+### **Tech Stack** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+
+---
+
+### **Connect with me** [LinkedIn](https://www.linkedin.com/in/mohamed-galal-b055372a6/) | [GitHub](https://github.com/galal241359)
