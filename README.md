@@ -1,22 +1,30 @@
-# 👋 Hi, I'm Mohamed Galal  
-### 🎓 Computer Engineering Student @ ERU  
+  
+# 👋 Hi there! I'm Mohamed Galal (M7MEDpro)
+<h3 align="center">Computer Engineering Student | Full-Stack Developer | Embedded Systems Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmัลX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
 
 ---
 
-### **About Me** I'm a passionate **Computer Engineering** student at the **Egyptian Russian University (ERU)**. I specialize in building modern web applications and exploring the intersection of software and hardware.  
-
-- 🚀 **Currently learning:** React.js, Next.js, and Advanced Networking.  
-- 🛠️ **Skills:** JavaScript, C++, Python, Digital Logic Design.  
-- ⚡ **Projects:** [Technical Science Egypt (TSE) Website], [Virtual Painter with AI].  
-- 🛰️ **Certifications:** CCNP, CCNA.  
-
----
-
-### **Tech Stack** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+## 🎓 About Me
+| 🏫 Education | 🎯 Passion |
+| :--- | :--- |
+| **Computer Engineering Student** at Egyptian Russian University (ERU) | Building **AI-powered security systems** and Smart Home automation. |
+| 💻 **Major:** 2nd Year Computer Engineering | 🧩 **Problem Solver:** Active on Codeforces & LeetCode. |
+| 🌍 **Location:** Egypt | 🚀 **Currently Learning:** CCNA 200-301 & Advanced Computer Vision. |
 
 ---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img
 
 ### **Connect with me** [LinkedIn](https://www.linkedin.com/in/mohamed-galal-b055372a6/) | [GitHub](https://github.com/galal241359)
