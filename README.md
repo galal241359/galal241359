@@ -27,4 +27,4 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img
 
-### **Connect with me** [LinkedIn](https://www.linkedin.com/in/mohamed-galal-b055372a6/) | [GitHub](https://github.com/galal241359)
+### **Connect with me** [LinkedIn]https://www.linkedin.com/in/mohamed-galal-2133662a8?utm_source=share_via&utm_content=profile&utm_medium=member_android [GitHub](https://github.com/galal241359)
