@@ -26,5 +26,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img
+ ## 🔗 Connect With Me
+<p align="center">
+<a href="https://github.com/galal241359">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-galal-2133662a8">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:Mg694855@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
-### **Connect with me** [LinkedIn]https://www.linkedin.com/in/mohamed-galal-2133662a8?utm_source=share_via&utm_content=profile&utm_medium=member_android [GitHub](https://github.com/galal241359)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galal241359&color=blueviolet" alt="Profile Views" />
+</p>
